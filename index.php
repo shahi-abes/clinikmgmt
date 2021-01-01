@@ -1,6 +1,7 @@
 <?php
 echo 1234;
 header('Content-Type: text/html; charset=UTF-8');//for unicode support very important
+echo 'hello world'; 
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
